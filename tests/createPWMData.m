@@ -1,6 +1,6 @@
 %% Raw data
 t = [0;5;5;10];         % Time
-u = [-2;-0.26;0.25;2];  % Controller input
+u = [-2;-0.25;0.25;2];  % Controller input
 
 %% Approach #1: Array format
 % Use if all inputs share the same time values and have the same data types.
