@@ -5,7 +5,7 @@
 
 % Controller constants
 Kp = 0.0506692;
-Ki = 0.362974;
+Ki = 0.362975;
 
 % Controller sample time
 Ts = 0.01;
